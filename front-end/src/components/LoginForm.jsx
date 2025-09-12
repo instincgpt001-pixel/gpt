@@ -32,7 +32,7 @@ function LoginForm({ onLogin }) {
 
   return (
     <div className="login-container">
-      <h2>Login CampusMart</h2>
+      <h2>Login CampusMart234</h2>
       <form onSubmit={handleSubmit}>
         <input
           type="email"
